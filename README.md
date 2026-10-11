@@ -14,14 +14,14 @@ Details:
 
 Authors:
   - **Ashwin S. Nayak**
-  [![orcid](https://img.shields.io/badge/%20-orcid-black?logo=orcid&style=plastic)](https://orcid.org/0000-0002-9855-2377)
-  [![github](https://img.shields.io/badge/%20-github-black?logo=github&style=plastic)](https://github.com/ashwin-nayak)
+  [![ORCID: 0000-0002-9855-2377](https://img.shields.io/badge/ORCID-0000--0002--9855--2377-A6CE39?logo=orcid&logoColor=white&style=plastic)](https://orcid.org/0000-0002-9855-2377)
+  [![GitHub: ashwin-nayak](https://img.shields.io/badge/GitHub-ashwin--nayak-181717?logo=github&style=plastic)](https://github.com/ashwin-nayak)
   - **Andrés Prieto**
-  [![orcid](https://img.shields.io/badge/%20-orcid-black?logo=orcid&style=plastic)](https://orcid.org/0000-0002-4399-6878)
-  [![github](https://img.shields.io/badge/%20-github-black?logo=github&style=plastic)](https://github.com/maprieto)
+  [![ORCID: 0000-0002-4399-6878](https://img.shields.io/badge/ORCID-0000--0002--4399--6878-A6CE39?logo=orcid&logoColor=white&style=plastic)](https://orcid.org/0000-0002-4399-6878)
+  [![GitHub: maprieto](https://img.shields.io/badge/GitHub-maprieto-181717?logo=github&style=plastic)](https://github.com/maprieto)
   - **Daniel Fernández-Comesaña**
-  [![orcid](https://img.shields.io/badge/%20-orcid-black?logo=orcid&style=plastic)](https://orcid.org/0000-0003-3286-6637)
-  [![github](https://img.shields.io/badge/%20-github-black?logo=github&style=plastic)](https://github.com/fernandez-microflown)
+  [![ORCID: 0000-0003-3286-6637](https://img.shields.io/badge/ORCID-0000--0003--3286--6637-A6CE39?logo=orcid&logoColor=white&style=plastic)](https://orcid.org/0000-0003-3286-6637)
+  [![GitHub: fernandez-microflown](https://img.shields.io/badge/GitHub-fernandez--microflown-181717?logo=github&style=plastic)](https://github.com/fernandez-microflown)
 
 Affiliation:
   - [Centre for Mathematical Research and Technology of Galicia (CITMaGa)](https://citmaga.gal/en/home), A Coruña, Spain.
@@ -160,7 +160,7 @@ Logo EU Flag -->
 Logo MICIU + Next Generation + PRTR + AEI
 --> &nbsp;&nbsp; <a href="https://www.aei.gob.es/en"> <img src="https://github.com/user-attachments/assets/68bd9a8a-144d-459b-8bc8-d9bc3e31939b" width="400"/></a>
 
-This project has received funding from [**ROMSOC**](https://www.romsoc.eu) [![github](https://img.shields.io/badge/%20-black?logo=github&style=plastic)](https://github.com/ROMSOC), the European Union’s Horizon 2020 research and innovation programme under the [Marie Skłodowska-Curie Grant Agreement No. 765374](https://cordis.europa.eu/project/id/765374/es). 
+This project has received funding from [**ROMSOC**](https://www.romsoc.eu) [![GitHub: ROMSOC](https://img.shields.io/badge/GitHub-ROMSOC-181717?logo=github&style=plastic)](https://github.com/ROMSOC), the European Union’s Horizon 2020 research and innovation programme under the [Marie Skłodowska-Curie Grant Agreement No. 765374](https://cordis.europa.eu/project/id/765374/es).
 
 In addition, the project has been co-funded by the **NumSeaHy** project grant TED2021-131660B-I00 funded by [Spanish Ministry of Science and Innovation](https://www.aei.gob.es/en), MICIU/AEI /10.13039/501100011033 and by the [European Union NextGenerationEU/PRTR](https://next-generation-eu.europa.eu).
 
